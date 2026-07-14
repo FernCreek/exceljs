@@ -19,7 +19,7 @@
   "browser": "./dist/exceljs.min.js",
   "types": "./index.d.ts",
   "files": [
-    "dist",
+    "dist/exceljs.min.js",
     "lib",
     "excel.js",
     "LICENSE",
